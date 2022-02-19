@@ -1,0 +1,13 @@
+// base file
+@import "./base/variables.scss";
+@import "./base/mixins";
+@import "./base/global.scss";
+
+// component file
+@import "./components/product.scss";
+@import "./components/resultTop.scss";
+
+// layout file
+@import "./layouts/header.scss";
+@import "./layouts/menu.scss";
+@import "./layouts/main.scss";
